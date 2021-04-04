@@ -1,0 +1,4 @@
+DEBUG=1
+SECRET_KEY=t9s6+#6igxntudk%+lz2dr^qmre+&9sz3w2kb08xuzh*!(qw7d
+DJANGO_ALLOWED_HOSTS=*
+INTERNAL_IPS=127.0.0.1

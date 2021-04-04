@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block head_title %}Verificar dirección de correo electrónico{% endblock %}
+
+{% block content %}
+    <h2>Hola, {{ user.first_name }} {{ user.last_name }}</h2>
+
+    <p>
+        Para continuar necesitas verificar tu dirección de correo electrónico con el siguiente token
+        <code>{{ token }}</code>
+    </p>
+{% endblock %}
+

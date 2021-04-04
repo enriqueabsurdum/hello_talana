@@ -1,0 +1,6 @@
+SQL_ENGINE=django.db.backends.postgresql
+SQL_DATABASE=hello_talana
+SQL_USER=hello_talana
+SQL_PASSWORD=hello_talana
+SQL_HOST=db
+SQL_PORT=5432

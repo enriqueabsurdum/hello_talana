@@ -1,0 +1,19 @@
+# Base
+pytz==2021.1
+
+# PostgreSQL
+psycopg2-binary==2.8.6
+
+# Django
+Django==3.1.7
+
+# Django REST framework
+djangorestframework==3.12.4  # https://pypi.org/project/djangorestframework/3.12.4/
+
+# Celery
+celery==4.4.7
+flower==0.9.7
+redis==3.5.3
+
+# PyJWT
+PyJWT==2.0.1  # https://pypi.org/project/PyJWT/2.0.1/
