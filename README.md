@@ -50,7 +50,7 @@ El *endpoint* `{url}/users/generate_password/` no está finalizado (ver código 
 ```json
 {
     "token": "secret",
-  	"password": "secret"
+    "password": "secret"
 }
 ```
 
